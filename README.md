@@ -1,4 +1,4 @@
-# QA_task_z-user_flow
+# user_flow
 
 One of the most critical areas in Zyro.com is Payment for Website Builder plan. Why?
 1. According to the structure, without successful payment user cannot begin create his own website. So if the payment is not successful - everything stops here.
